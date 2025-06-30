@@ -1,0 +1,9 @@
+Résultats globaux :
+- Similarité (référence → extraction) : 100%
+Différences totales : 0 / 42
+  - Différences dans l'attendu : 0
+- Similarité (extraction → référence) : 100%
+Différences totales : 0 / 42
+  - Différences dans le résultat : 0
+
+✅ Les fichiers JSON sont parfaitement identiques.

@@ -1,0 +1,66 @@
+{
+    "experiences": [
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Emission Publimag",
+            "date_debut": "12/2024",
+            "duree": "maintenant",
+            "description": "maquillage du présentateur et des invités de l'émission Ils font l'actu"
+        },
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Défilé Tokyo Fashion Show",
+            "date_debut": "01/2025",
+            "date_fin": "01/2025",
+            "description": "Fashion Week"
+        },
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Défilé Kamad",
+            "date_debut": "01/2025",
+            "date_fin": "01/2025",
+            "description": "Fashion Week"
+        },
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Défilé Style Connect",
+            "date_debut": "02/2025",
+            "date_fin": "02/2025",
+            "description": "Fashion Week, pour les marques Admoni, Minteh, Bunkheur et Brock.n"
+        },
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Interview Joakim Latzko pour Bestimage",
+            "date_debut": "02/2025",
+            "date_fin": "02/2025"
+        },
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Défilé Christophe Guillarmé",
+            "date_debut": "03/2025",
+            "date_fin": "03/2025",
+            "description": "Fashion Week"
+        },
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Défilé Julien Paoletti",
+            "date_debut": "03/2025",
+            "date_fin": "03/2025",
+            "description": "Fashion Week"
+        },
+        {
+            "poste": "Maquilleuse",
+            "entreprise": "Emission AJA",
+            "date_debut": "03/2025",
+            "duree": "maintenant",
+            "description": "maquillage des invités"
+        }
+    ],
+    "formations": [
+        {
+            "intitule": "Campus des maquilleurs",
+            "date_debut": "10/2024",
+            "duree": "maintenant"
+        }
+    ]
+}

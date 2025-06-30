@@ -1,0 +1,26 @@
+<?php
+
+$reference = [
+  [ "nomReference" => "cv_amelie_vila.json", "nomBasique" => "cv-1748993500.json" ],
+  ["nomReference" => "cv_andra_martins_neto.json", "nomBasique" => "cv-1749041735.json" ],
+  ["nomReference" => "cv_anonyme.json", "nomBasique" => "cv-1742030723.json" ],
+  ["nomReference" => "cv_brahim_belhadj.json", "nomBasique" => "cv-1736073735.json" ],
+  ["nomReference" => "cv_cala_arakelian.json", "nomBasique" => "cv-1749587593.json" ],
+  ["nomReference" => "cv_cathy_landais.json", "nomBasique" => "cv-1719101265.json" ],
+  ["nomReference" => "cv_edith_pascal.json", "nomBasique" => "cv-1703321430.json" ],
+  ["nomReference" => "cv_emma_notebaert.json", "nomBasique" => "cv-1747944981.json" ],
+  ["nomReference" => "cv_fanta_sylla.json", "nomBasique" => "cv-1733212678.json" ],
+  ["nomReference" => "cv_ines_benchetrat.json", "nomBasique" => "cv-1747653657.json" ],
+  ["nomReference" => "cv_ismahen_bouslimi.json", "nomBasique" => "cv-1748898886.json" ],
+  ["nomReference" => "cv_jason_yidika.json", "nomBasique" => "cv-1749039351.json" ],
+  ["nomReference" => "cv_jolly_joachim.json", "nomBasique" => "cv-1747989347.json" ],
+  ["nomReference" => "cv_louis_lorelei.json", "nomBasique" => "cv-1747927972.json" ],
+  ["nomReference" => "cv_oceane_brocheton.json", "nomBasique" => "cv-1747993094.json" ],
+  ["nomReference" => "cv_oceane_brocheton2.json", "nomBasique" => "cv-1748964521.json" ],
+  ["nomReference" => "cv_RAHARINJATOVO.json", "nomBasique" => "cv-1747808215.json" ],
+  ["nomReference" => "cv_rosamond_thaima.json", "nomBasique" => "cv-1705347406.json" ],
+  ["nomReference" => "cv_severine_maurel.json", "nomBasique" => "cv-1749582954.json" ],
+  ["nomReference" => "cv_shona_montes.json", "nomBasique" => "cv-1749036643.json" ],
+  ["nomReference" => "cv_solen_soher.json", "nomBasique" => "cv-1748015449.json" ],
+  ["nomReference" => "cv_tania_tripodi.json", "nomBasique" => "cv-1747947354.json" ]
+];
