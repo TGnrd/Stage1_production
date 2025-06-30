@@ -1,0 +1,9 @@
+Résultats globaux :
+- Similarité (référence → extraction) : 83.33%
+Différences totales : 7 / 42
+  - Différences dans l'attendu : 7
+- Similarité (extraction → référence) : 81.4%
+Différences totales : 8 / 43
+  - Différences dans le résultat : 8
+
+⚠️ Présence probable d'informations inventées.

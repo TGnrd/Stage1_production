@@ -1,0 +1,126 @@
+{
+    "nom": "Titouan GOINARD",
+    "age": 19,
+    "nationalite": "Français",
+    "contact": {
+        "email": "titouan.goinard@gmail.com",
+        "telephone": "+33 6 02 34 85 06",
+        "adresse": {
+            "rue": "Saint-Aubin-des-Châteaux",
+            "code_postal": "44110",
+            "ville": "Rennes",
+            "code_postal": "35000"
+        },
+        "permis": "Permis B",
+        "vehicule": "Oui"
+    },
+    "situation_professionnelle": {
+        "statut": "étudiant",
+        "poste_actuelle": "1ère année BTS SIO",
+        "poste_recherche": "développeur web",
+        "disponibilites": {
+            "date_debut": "19/05/2025",
+            "date_fin": "27/06/2025"
+        }
+    },
+    "competences": {
+        "techniques": [
+            "Développement Web",
+            "Développement console et bureau",
+            "Systèmes d'exploitation et virtualisation",
+            "Réseaux"
+        ],
+        "logiciels_outils": [
+            "Visual Studio Code",
+            "Git",
+            "Virtual Box",
+            "Packet tracer"
+        ],
+        "methodologies": [
+            "technique de tests unitaires"
+        ]
+    },
+    "aptitudes_professionnelles": {
+        "organisationnelles": [
+            "Ponctuel",
+            "Sérieux",
+            "Appliqué"
+        ],
+        "autres": [
+            "Curieux"
+        ]
+    },
+    "motivation": [
+        "Actuellement en première année de BTS SIO (Services informatiques aux organisations), je suis à la recherche d'un stage de six semaines en tant que développeur web, du 19 mai au 27 juin 2025."
+    ],
+    "experiences": [
+        {
+            "poste": "Agent d'entretien voirie",
+            "entreprise": "Mairie Châteaubriant",
+            "date_debut": "07/2024"
+        },
+        {
+            "poste": "Développeur web",
+            "entreprise": "Proébo Promoplast Châteaubriant",
+            "date_debut": "07/2023",
+            "activites_descriptions": [
+                "Stage d'observation où j'ai pu assister à la création d'une croix de pharmacie pilotée à distance par une application. Les langages utilisés étaient HTML, CSS, PHP, SQL et Python."
+            ]
+        },
+        {
+            "poste": "Géomètre",
+            "entreprise": "Air & Géo Châteaubriant",
+            "date_debut": "02/2021",
+            "activites_descriptions": [
+                "Stage d'observation de 3ème."
+            ]
+        }
+    ],
+    "formations": [
+        {
+            "intitule": "BTS SIO (Services Informatiques aux Organisations)",
+            "etablissement": "Lycée Victor et Hélène Basch Rennes",
+            "date_debut": "2024",
+            "date_fin": "2026",
+            "option": "SLAM (Solutions Logicielles et Applications Métiers)"
+        },
+        {
+            "intitule": "Bac général",
+            "etablissement": "Saint Joseph Châteaubriant",
+            "date_debut": "2024",
+            "specialites": [
+                "Mathématiques",
+                "Numérique et Sciences Informatiques"
+            ]
+        },
+        {
+            "intitule": "Brevet des collèges",
+            "etablissement": "Saint Joseph Châteaubriant",
+            "date_debut": "2021",
+            "mention": "assez bien"
+        }
+    ],
+    "langues": [
+        {
+            "langue": "Français",
+            "niveau_original": "Natif",
+            "niveau_normalise": 5
+        },
+        {
+            "langue": "Anglais",
+            "niveau_original": "B2",
+            "niveau_normalise": 3
+        },
+        {
+            "langue": "Espagnol",
+            "niveau_original": "B2",
+            "niveau_normalise": 3
+        }
+    ],
+    "centres_interet": [
+        "Programmation",
+        "Piano",
+        "Jeux vidéos",
+        "Pêche"
+    ]
+}
